@@ -1,4 +1,4 @@
-![Banner](https://github.com/shivam15800/shivam15800/blob/main/banner.png?raw=true)
+![Banner](https://github.com/shivam15800/shivam15800/blob/main/banner2.png?raw=true)
 
 ---
 
