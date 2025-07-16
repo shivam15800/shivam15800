@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @shivam15800
+# 👋 Hi, I'm Shivam Kumar Rajput 
 
 - 👀 I'm interested in **cybersecurity** & **data science**
 - 🌱 I'm currently learning **Java** & **Statistics**
